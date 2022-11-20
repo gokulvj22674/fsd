@@ -8,6 +8,7 @@ public class EmployeeDetails {
 private void mainmethod() {
 	EmployeeDetails n= new EmployeeDetails();
 	n.EmployeeName();
+	System.out.println("branch name is gk");
 
 }
 }
